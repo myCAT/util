@@ -49,7 +49,7 @@ public class SenseOS {
     }
 
     /**
-     * @return the OS_TYPE
+     * @return the OS_TYPE windows ou unix
      */
     public static String getOS_TYPE() {
         if (OS_TYPE == null) {//
